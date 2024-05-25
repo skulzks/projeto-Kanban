@@ -1,5 +1,5 @@
 <p>
- <img src="[kanban](https://github.com/skulzks/projeto-Kanban/assets/161469096/4df8ddcb-b2f0-4a47-87d0-e40b28f327cc)
+ <img src="[kanban](https://github.com/skulzks/projeto-Kanban/assets/161469096/4df8ddcb-b2f0-4a47-87d0-e40b28f327cc)"
  width="100%" />
 </p>
 
